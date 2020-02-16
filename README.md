@@ -4,7 +4,7 @@ A simple tic tac toe game .
 The game is displayed using a GUI using swing in Java
 
 
-![Screenshot](ttt.png)
+![Screenshot](TTT.png.png)
 
 
 
